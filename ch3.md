@@ -121,10 +121,3 @@
 - **Generic Devices**: `sg` allows direct SCSI communication.
   - Example: Use `/dev/sg1` for optical drive writing tasks.
 
----
-
-# Conclusion
-
-- **Understanding Devices**: Linux presents devices as files, making it easy to interact with them using standard I/O operations.
-- **udev and sysfs**: Play a crucial role in dynamically managing devices and providing detailed information about hardware.
-- **Next Steps**: Dive deeper into disk management and storage in the next chapter.
